@@ -9,7 +9,8 @@ a stand-alone IoT-based Food Quality Monitoring System
 - the wifi credentials can be erased and reconfigured using the Wifi Manager
 - a telegram bot is used to control the ESP32Cam
 
-## ESP32Cam Functions
+### ESP32Cam Functions
+```bash
 - /start
 - /photo
 - /caption
@@ -20,3 +21,4 @@ a stand-alone IoT-based Food Quality Monitoring System
 - /status
 - /reset
 - /reboot
+```
