@@ -1,4 +1,4 @@
-# SecureSense: A FoodMonitoringSystem
+# SecureSense: A Food Quality Monitoring System
 
 ## What is the device?
 a stand-alone IoT-based Food Quality Monitoring System
