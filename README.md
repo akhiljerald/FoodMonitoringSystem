@@ -17,7 +17,7 @@ a stand-alone IoT-based Food Quality Monitoring System
 - /flashphoto
 - /entim
 - /distim
-- /<1-1440> minutes
+- /1-1440 minutes
 - /status
 - /reset
 - /reboot
