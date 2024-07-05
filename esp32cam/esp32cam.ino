@@ -53,17 +53,6 @@ char def_hdcam[4];
   String chat_id = "1234567890";
   #define BOTtoken "XXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"  // your Bot Token (Get from Botfather)
 */
-char ssid[] = "Internet";     // your network SSID (name)
-char password[] = "computer"; // your network key
-// https://sites.google.com/a/usapiens.com/opnode/time-zones  -- find your timezone here
-String timezone = "UTC +5:30" ; //"GMT0BST,M3.5.0/01,M10.5.0/02";
-
-// you can enter your home chat_id, so the device can send you a reboot message, otherwise it responds to the chat_id talking to telegram
-
-String chat_id = "912172204";
-//String chat_id;
-//#define BOTtoken "6144004733:AAESpU5PFtfQZFEYTq3i9zyhJRZWvo__gA4"  // your Bot Token (Get from Botfather)
-String BOTtoken = "6144004733:AAESpU5PFtfQZFEYTq3i9zyhJRZWvo__gA4";
 
 // time 
 const char* ntpServer = "pool.ntp.org";
